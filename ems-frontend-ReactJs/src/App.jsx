@@ -1,7 +1,7 @@
 import './App.css'
 import EmployeeAddComponent from './components/EmployeeAddComponent'
 import FooterComponent from './components/FooterComponent'
-import HeaderComponent from './components/headerComponent'
+import HeaderComponent from './components/HeaderComponent'
 import ListEmployeeComponent from './components/ListEmployeeComponent'
 import {BrowserRouter,Route,Routes} from 'react-router-dom'
 function App() {
